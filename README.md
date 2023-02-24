@@ -1,0 +1,2 @@
+# MacosPotentialLeaks
+Leak of performSelector
